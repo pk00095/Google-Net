@@ -1,5 +1,5 @@
 # Google-Net
-My attempt at coding GoogleNet with tensorflow using tensorflow layers api
+My attempt at coding GoogleNet with tensorflow using tensorflow layers api following the original paper [https://arxiv.org/abs/1409.4842][paper]
 
 
 # About
